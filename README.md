@@ -6,5 +6,5 @@ SRE take home test for fetchrewards.com
 - Check python version with `Python3 --version`
 - Set pup virtual environment `python3 -m venv .venv`
 - `source .venv/bin/activate`
-- Then you will also want to install requests and pyyaml. I ran `pip install requests` and pip install `pyyaml`
+- Then you will also want to install requests and pyyaml. I ran `pip install requests` and `pip install pyyaml`
 - Then run `Python3 main.py config.yaml`
